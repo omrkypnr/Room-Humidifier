@@ -2,7 +2,7 @@
  * IEEE Project 2021-2022                            *   
  * Project Name : Room Humidifier                    *
  * Author       : Ömer KAYAPINAR                     * 
- * Rev. Date    : 27.12.2021                         *
+ * Rev. Date    : 28.12.2021                         *
  * ***************************************************
  * PURPOSE      : Controlling the ambient            *
  * humidity, temperature and heat index and          *
